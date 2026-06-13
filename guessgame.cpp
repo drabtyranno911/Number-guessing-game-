@@ -20,7 +20,7 @@ int main() {
         } else if (userGuess > randomNumber) {
             cout << "Too high" << '\n';
         } else {
-            cout << "You guessed the number zam" << '\n';
+            cout << "You guessed the number" << '\n';
         }
     }
 
